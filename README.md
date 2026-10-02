@@ -21,18 +21,14 @@
 
 <img src="docs/images/demo.gif" width="760" alt="랙 도어 YOLO 검출과 2대 teleop SLAM 매핑 장면">
 
-<sub>▲ 발표 영상(31초)에서 잘라 만든 GIF</sub><br>
-<sub><b>앞부분</b> — robot5 카메라 화면에 YOLO 랙 도어 검출 박스(<code>rack_door_open</code> / <code>rack_door_closed</code>)가 뜨는 장면. 사람이 teleop으로 로봇을 움직이는 중이며, 순찰과 연동된 장면은 아닙니다.</sub><br>
-<sub><b>뒷부분</b> — 로봇 2대를 teleop으로 나눠 주행하며 SLAM 매핑. 왼쪽은 테스트베드 카메라, 오른쪽은 RViz에서 두 로봇이 만든 지도가 한 화면에 합쳐져 커지는 모습입니다.</sub>
+<sub>▲ <b>앞부분</b> — 로봇 카메라 화면의 YOLO 랙 도어 검출(<code>rack_door_open</code> / <code>rack_door_closed</code>) · <b>뒷부분</b> — 로봇 2대가 나눠 주행하며 만든 SLAM 지도가 RViz에서 하나로 합쳐지는 모습</sub>
 
 </div>
 
 <br>
 
 > [!NOTE]
-> 두산로보틱스 **ROKEY 9기 지능-1 프로젝트** 팀 저장소를 포크한 저장소입니다. 코드는 팀 저장소 main(2026-09-10 마지막 병합) 그대로이고, 이 README만 포트폴리오용으로 새로 썼습니다.
-> 팀이 쓰던 원래 README(셋업 · 협업 규칙)는 [`docs/README_team.md`](docs/README_team.md)에 그대로 두었습니다.
-> 지도 매핑 · 병합과 순찰 주행 코드는 팀 저장소의 작업 브랜치에만 있고 main에 병합되지 않아, 이 포크에는 들어 있지 않습니다.
+> 이 저장소의 코드는 추후 정리 · 수정할 예정입니다.
 
 <br>
 
