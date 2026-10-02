@@ -23,7 +23,7 @@
 
 <sub>▲ 발표 영상(31초)에서 잘라 만든 GIF</sub><br>
 <sub><b>앞부분</b> — robot5 카메라 화면에 YOLO 랙 도어 검출 박스(<code>rack_door_open</code> / <code>rack_door_closed</code>)가 뜨는 장면. 사람이 teleop으로 로봇을 움직이는 중이며, 순찰과 연동된 장면은 아닙니다.</sub><br>
-<sub><b>뒷부분</b> (3배속) — 로봇 2대를 teleop으로 나눠 주행하며 SLAM 매핑. 왼쪽은 테스트베드 카메라, 오른쪽은 RViz에서 두 로봇이 만든 지도가 한 화면에 합쳐져 커지는 모습입니다.</sub>
+<sub><b>뒷부분</b> — 로봇 2대를 teleop으로 나눠 주행하며 SLAM 매핑. 왼쪽은 테스트베드 카메라, 오른쪽은 RViz에서 두 로봇이 만든 지도가 한 화면에 합쳐져 커지는 모습입니다.</sub>
 
 </div>
 
